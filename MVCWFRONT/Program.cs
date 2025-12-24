@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using MVCWFRONT.DAL;
+
 namespace MVCWFRONT
 {
     public class Program
@@ -6,6 +9,11 @@ namespace MVCWFRONT
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            {
+                options.UseSqlServer("Server=localhost;Database=ProniaDB;Trusted_Connection=true;Encrypt=false");
+            });
+
             var app = builder.Build();
 
             app.UseStaticFiles();
