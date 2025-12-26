@@ -1,8 +1,10 @@
-﻿namespace MVCWFRONT.Models
+﻿using MVCWFRONT.Models.Base;
+
+namespace MVCWFRONT.Models
 {
-    public class Slide
+    public class Slide:BaseEntity
     {
-        public int Id { get; set; }
+    
         public string Title { get; set; }
         public int Discount { get; set; }
         public string Description { get; set; }

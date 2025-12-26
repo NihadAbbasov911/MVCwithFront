@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MVCWFRONT.DAL;
 using MVCWFRONT.Models;
 using MVCWFRONT.ViewModels;
@@ -12,7 +13,7 @@ namespace MVCWFRONT.Controllers
             {
                 _context = context;
             }
-            public IActionResult Index()
+            public async Task<IActionResult> IndexAsync()
             {
             //            List<Slide> slides = new List<Slide>
             //{
@@ -95,9 +96,9 @@ namespace MVCWFRONT.Controllers
 
             HomeVM homeVM = new HomeVM
             {
-                Slides = _context.Sliders.ToList(),
-                Products = _context.Products.ToList(),
-                Blogs = _context.Blogs.ToList()
+                Slides = await _context.Sliders.ToListAsync(),
+                Products = await _context.Products.Include(p=>p.ProductImages).ToListAsync(),
+                Blogs = await _context.Blogs.ToListAsync()
             };
 
 
