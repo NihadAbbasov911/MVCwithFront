@@ -1,0 +1,65 @@
+﻿<div class="card mx-auto"
+     style="
+        max-width: 23rem;
+        border: none;
+        border-radius: 18px;
+        box-shadow: 0 15px 35px rgba(0,0,0,.12);
+        transition: .3s;
+     "
+     onmouseover="this.style.transform='translateY(-6px)'"
+     onmouseout="this.style.transform='translateY(0)'">
+
+    <div class="card-body p-4">
+
+        <!-- Header -->
+        <div style="
+            background: linear-gradient(135deg,#0d6efd,#6610f2);
+            border-radius: 14px;
+            padding: 16px;
+            margin-bottom: 20px;
+        ">
+            <h5 style="color:white;font-weight:700;margin-bottom:4px;">
+                DETAIL CATEGORY
+            </h5>
+            <small style="color:rgba(255,255,255,.75);">
+                Category Information
+            </small>
+        </div>
+
+        <!-- Info -->
+        <div style="
+            display:flex;
+            align-items:center;
+            gap:10px;
+            padding:10px 0;
+            border-bottom:1px dashed #ddd;
+        ">
+            <span style="color:#0d6efd;font-weight:600;">ID</span>
+            <span class="badge bg-primary ms-auto">@Model.Id</span>
+        </div>
+
+        <div style="
+            display:flex;
+            align-items:center;
+            gap:10px;
+            padding:12px 0;
+        ">
+            <span style="color:#198754;font-weight:600;">Name</span>
+            <span style="margin-left:auto;font-weight:600;">
+                @Model.Name
+            </span>
+        </div>
+
+        <!-- Button -->
+        <div class="text-end mt-4">
+            <a href="#"
+               class="btn btn-primary rounded-pill px-4"
+               onmouseover="this.style.transform='translateX(6px)'"
+               onmouseout="this.style.transform='translateX(0)'"
+               style="transition:.3s;">
+                View More
+            </a>
+        </div>
+
+    </div>
+</div>
