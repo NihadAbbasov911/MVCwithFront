@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|solutionrelative:mvcwfront\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3326855B-3F41-4DDA-862A-9F6CAD23C516}|MVCWFRONT\\MVCWFRONT.csproj|c:\\users\\user\\desktop\\apa201\\mvcwfront\\mvcwfront\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,17 +62,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T08:04:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T08:01:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SlideController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:59:32.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "MVCWFRONT\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Models\\Slide.cs*",
+              "RelativeToolTip": "MVCWFRONT\\Models\\Slide.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:24:29.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
               "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
               "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-30T14:36:51.724Z",
               "EditorCaption": ""
@@ -71,12 +139,11 @@
               "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T14:24:10.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T14:24:10.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MVCWFRONT\\Models\\Category.cs",
@@ -84,12 +151,11 @@
               "RelativeToolTip": "MVCWFRONT\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T08:58:23.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T08:58:23.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -101,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -109,38 +175,35 @@
               "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T08:25:43.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T08:25:43.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T15:16:40.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T15:16:40.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAiwIMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAiwHwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T15:16:27.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T15:16:27.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -148,12 +211,11 @@
               "RelativeToolTip": "MVCWFRONT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T15:00:09.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T15:00:09.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APA201\\MVCWFRONT\\MVCWFRONT\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "MVCWFRONT\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
