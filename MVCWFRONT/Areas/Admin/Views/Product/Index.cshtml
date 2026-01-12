@@ -1,5 +1,5 @@
-﻿@using MVCWFRONT.Models
-
+﻿@using MVCWFRONT.Areas.Admin.ViewModels.Product
+@model List<GetProductVM>
 @{
     int count = 0;
 }
@@ -7,8 +7,7 @@
     <div class="col-lg-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-
-                <a asp-action="create" class="btn btn-success">Add Slide</a>
+                <a asp-action="create" class="btn btn-success">Add Product</a>
                 <div class="table-responsive">
                     <table class="table table-striped">
                         <thead>
@@ -20,10 +19,13 @@
                                     Image
                                 </th>
                                 <th>
-                                    Title
+                                    Name
                                 </th>
                                 <th>
-                                    Order
+                                    Price
+                                </th>
+                                <th>
+                                    CategoryName
                                 </th>
                                 <th>
                                     Settings
@@ -32,7 +34,8 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (Slide slide in Model)
+
+                            @foreach (GetProductVM getProductVM in Model)
                             {
                                 count++;
                                 <tr>
@@ -40,24 +43,23 @@
                                         @count
                                     </td>
                                     <td>
-                                        <img src="~/assets/images/website-images/@slide.Image" alt="" />
+                                        <img src="~/assets/images/website-images/@getProductVM.Image" alt="">
                                     </td>
                                     <td>
-                                        @slide.Title
+                                        @getProductVM.Name
                                     </td>
                                     <td>
-                                        @slide.Order
+                                        @getProductVM.Price
                                     </td>
                                     <td>
-                                        <a asp-action="update" asp-route-id="@slide.Id" class="btn btn-warning">
-                                            <i class="mdi mdi-lead-pencil"></i>
+                                        @getProductVM.CategoryName
+                                    </td>
+                                    <td>
+                                        <a asp-action="update" asp-route-id="@getProductVM.Id" class="btn btn-warning">
+                                            <i class="mdi mdi-grease-pencil"></i>
                                         </a>
-                                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@slide.Id">
-                                            <i class="mdi mdi-delete"></i>
-                                        </a>
-                                        <a class="btn btn-primary" asp-action="detail" asp-route-id="@slide.Id">
-                                            <i class="mdi mdi-dots-vertical"></i>
-                                        </a>
+                                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@getProductVM.Id"><i class="mdi mdi-delete"></i></a>
+                                        <a class="btn btn-primary"><i class="mdi mdi-dots-vertical"></i></a>
                                     </td>
 
                                 </tr>
